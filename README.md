@@ -28,17 +28,28 @@ This commands includes
 
 ## Output
 # ping:
+![alt text](<Screenshot 2026-03-16 234742.png>)
+
 
 # netstat:
 
 
+
+![alt text](<Screenshot 2026-03-16 234755.png>)
+
+
 # nslookup:
+
+
+![alt text](<Screenshot 2026-03-16 234810.png>)
 
 # tracert:
 
+![alt text](<Screenshot 2026-03-16 234822.png>)
+
 # ipconfig:
 
-
+![alt text](<Screenshot 2026-03-16 234831.png>)
 
 ## Result
 Thus Execution of Network commands Performed 
