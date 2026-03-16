@@ -27,6 +27,18 @@ This commands includes
 <BR>
 
 ## Output
+# ping:
+
+# netstat:
+
+
+# nslookup:
+
+# tracert:
+
+# ipconfig:
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
